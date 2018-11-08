@@ -10,6 +10,10 @@ public class Program {
 	public static void main(String[] args){
 		List<Employee> list = new ArrayList<>();
 		Scanner sc = new Scanner(System.in);
+		
+		System.out.println("TESTANTO GITHUB.");
+		
+		
 		System.out.print("How many employees will be registered? ");
 		int n = sc.nextInt();
 		
